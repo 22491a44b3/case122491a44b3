@@ -4,7 +4,6 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "toc_visible": true,
       "authorship_tag": "ABX9TyPvtIvnewvc6oWmM9JOKVGC",
       "include_colab_link": true
     },
@@ -29,14 +28,14 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 2,
+      "execution_count": 1,
       "metadata": {
         "colab": {
           "base_uri": "https://localhost:8080/",
           "height": 1000
         },
-        "id": "SG-C_FiUr3-r",
-        "outputId": "1d99a18b-bf9f-4fbc-8a9d-b812d6aaf1c4"
+        "id": "16o4-ifFyHnh",
+        "outputId": "1e45a799-2529-4808-bb89-326e089cc46e"
       },
       "outputs": [
         {
@@ -63,8 +62,8 @@
           "output_type": "execute_result",
           "data": {
             "text/plain": [
-              "([<matplotlib.patches.Wedge at 0x7d721a0284f0>,\n",
-              "  <matplotlib.patches.Wedge at 0x7d721a1b7730>],\n",
+              "([<matplotlib.patches.Wedge at 0x7a9702fd8370>,\n",
+              "  <matplotlib.patches.Wedge at 0x7a9702f6f700>],\n",
               " [Text(-0.14982184583289132, 1.0897492438681595, 'Kerala'),\n",
               "  Text(0.1498218458328907, -1.0897492438681597, 'Delhi')],\n",
               " [Text(-0.08172100681794071, 0.5944086784735415, '54.3%'),\n",
@@ -72,7 +71,7 @@
             ]
           },
           "metadata": {},
-          "execution_count": 2
+          "execution_count": 1
         },
         {
           "output_type": "display_data",
